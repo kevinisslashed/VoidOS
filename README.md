@@ -1,3 +1,4 @@
+<img width="1919" height="910" alt="Screenshot 2026-07-06 025931" src="https://github.com/user-attachments/assets/3f5203e6-9ee8-4690-8836-795026ab27a3" />
 A lightweight desktop in your own browser, especially built for musicians, where they can write their song, pull the basics, and more!
 
 #Features
